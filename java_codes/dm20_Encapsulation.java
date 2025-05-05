@@ -26,12 +26,6 @@ class Student{
 
 }
 
-
-
-
-
-
-
 public class dm20_Encapsulation {
     
     public static void main(String[] args) {

@@ -1,6 +1,13 @@
- String name = new String("niks");
-    //    int h = name.hashCode();
-    //    System.out.println(h);
-    //     System.out.println(name);
-    //     System.out.println(name.charAt(3));
-    //     System.out.println( name.concat(" sachin"));
+ // public int getAge() {
+    //     return age;
+    // }
+    // public void setAge(int age) {
+    //     this.age = age;
+    // }
+    // public String getName() {
+    //     return name;
+    // }
+    // public void setName(String name) {
+    //     this.name = name;
+    // }
+

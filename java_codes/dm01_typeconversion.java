@@ -1,4 +1,4 @@
-public class dm01_typeconversion {
+public class Dm01_typeconversion {
     public static void main(String ... arg){
 
        int a =257;

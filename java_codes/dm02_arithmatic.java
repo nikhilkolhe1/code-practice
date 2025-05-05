@@ -1,6 +1,6 @@
 import javax.swing.plaf.basic.BasicInternalFrameTitlePane.SystemMenuBar;
 
-public class dm02_arithmatic {
+public class Dm02_arithmatic {
 
 
 public static void main(String  ... arg){

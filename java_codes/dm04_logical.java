@@ -1,4 +1,4 @@
-public class dm04_logical {
+public class Dm04_logical {
     public static void main (String ... args){
 int a = 90;
 int b = 30;
