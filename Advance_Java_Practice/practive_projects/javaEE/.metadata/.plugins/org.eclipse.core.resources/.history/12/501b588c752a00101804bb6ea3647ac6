@@ -1,0 +1,15 @@
+package com.nikhil.Project;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "hi its my first application" );
+        Car car = new Car();
+        car.drive();
+    }
+}

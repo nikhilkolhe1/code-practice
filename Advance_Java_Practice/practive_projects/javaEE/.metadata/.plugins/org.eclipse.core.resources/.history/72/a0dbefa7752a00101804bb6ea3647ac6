@@ -1,0 +1,17 @@
+package com.nikhil.Project;
+
+import org.springframework.context.ApplicationContext;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "hi its my first application" );
+        ApplicationContext context = new ClassPathXmlApplicationContext();
+        Vehicle obj = context.getBean("Vehicle");
+    }
+}

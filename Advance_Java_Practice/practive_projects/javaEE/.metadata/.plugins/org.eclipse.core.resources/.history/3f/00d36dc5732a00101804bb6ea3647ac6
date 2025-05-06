@@ -1,0 +1,10 @@
+package com.nikhil.Project;
+
+public class Car 
+{
+	public void drive()
+	{
+		System.out.println("it going");
+	}
+
+}

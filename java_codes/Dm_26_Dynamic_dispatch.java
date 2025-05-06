@@ -32,7 +32,7 @@ class C extends A
 
 public class Dm_26_Dynamic_dispatch {
     public static void main(String[] args) {
-        
+        i =20;
         A obj = new C();
         obj.show();
     }
